@@ -1,0 +1,11 @@
+Extensions = {"Texts": (".txt", ".odt", ".docx", ".rtf", ".md"),
+              "Images": (".png", ".jpg", ".jpeg", ".gif", ".bmp", ".tiff", ".svg", ".webp"),
+              "Excel": (".xlsx", ".xls", ".ods", ".csv"),
+              "PDFs": (".pdf",),
+              "Powerpoint": (".pptx", ".odp", ".ppt"),
+              "Applications": (".exe", ".msi"),
+              "Videos": (".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm"),
+              "Audios": (".mp3", ".wav", ".ogg", ".flac", ".aac", ".m4a"),
+              "Compressed Files": (".zip", ".rar", ".7z", ".tar", ".gz"),
+              "Scripts": (".py", ".js", ".java", ".c", ".cpp", ".sh", ".bat"),
+              "Font types": (".ttf", ".otf", ".woff", ".woff2")}
