@@ -74,4 +74,4 @@ python interface.py
 
 ## Autor
 
-Desenvolvido por Andrey
+Desenvolvido por Andrey Souza
